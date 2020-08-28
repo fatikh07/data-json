@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "afif",
+      "alamat": "Pekalongan",
+      "umur": 24,
+      "nohp": "089765432123"
+    },
+    {
+      "id": 2,
+      "nama": "bayu",
+      "alamat": "Jakarta",
+      "umur": 21,
+      "nohp": "089765432123"
+    },
+    {
+      "id": 3,
+      "nama": "hendro",
+      "alamat": "Jepara",
+      "umur": 24,
+      "nohp": "089765432123"
+    },
+    {
+      "id": 4,
+      "nama": "adi",
+      "alamat": "Jepara",
+      "umur": 24,
+      "nohp": "089765432123"
+    },
+    {
+      "id": 5,
+      "nama": "angga",
+      "alamat": "Jepara",
+      "umur": 24,
+      "nohp": "089765432123"
+    },
+    {
+      "id": 6,
+      "nama": "putri",
+      "alamat": "Jepara",
+      "umur": 24,
+      "nohp": "089765432123"
+    },
+    {
+      "id": 7,
+      "nama": "putra",
+      "alamat": "Jepara",
+      "umur": 24,
+      "nohp": "089765432123"
+    },
+    {
+      "id": 8,
+      "nama": "dani",
+      "alamat": "Jepara",
+      "umur": 24,
+      "nohp": "089765432123"
+    },
+    {
+      "id": 9,
+      "nama": "eko",
+      "alamat": "Jepara",
+      "umur": 24,
+      "nohp": "089765432123"
+    },
+    {
+      "id": 10,
+      "nama": "eka",
+      "alamat": "Jepara",
+      "umur": 24,
+      "nohp": "089765432123"
+    },
+    {
+      "id": 11,
+      "nama": "yanti",
+      "alamat": "Jepara",
+      "umur": 24,
+      "nohp": "089765432123"
+    },
+    {
+      "id": 12,
+      "nama": "yani",
+      "alamat": "Jepara",
+      "umur": 24,
+      "nohp": "089765432123"
+    },
+    {
+      "id": 13,
+      "nama": "karni",
+      "alamat": "Jepara",
+      "umur": 24,
+      "nohp": "089765432123"
+    },
+    {
+      "id": 14,
+      "nama": "ana",
+      "alamat": "Jepara",
+      "umur": 24,
+      "nohp": "089765432123"
+    },
+    {
+      "id": 15,
+      "nama": "aji",
+      "alamat": "Jepara",
+      "umur": 24,
+      "nohp": "089765432123"
+    }
+  ]
+}
